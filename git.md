@@ -24,6 +24,8 @@ Make a new repo on Github.com, so you can copy the URL:
 
 ### notes:
 
+`git remote set-url origin ...`: to change the remote URL of a github repo
+
 `git status`: you can run this to check the status of your commit
 
 `.gitignore`: this file lets you set which  files and folders are ignored by git (create-react-app makes this for you)
