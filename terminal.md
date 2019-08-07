@@ -18,6 +18,8 @@
 
 `mv NAME FOLDER/NAME`: move a file called into the FOLDER
 
+`chown`: change permissions: look this one up on Google
+
 ### create-react-app
 
 `create-react-app APPNAME`: make a new React application in a folder called APPNAME (the folder is created for you. Then you can run `cd APPNAME` to enter that folder)
